@@ -1,17 +1,6 @@
-## My Project
 
-TODO: Fill this README out!
 
-Be sure to:
+# Query Live Data with rockset 
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
+In this workshop, you will learn how rockset, empowers analysts and business users to query live data. Participants will be guided through ingesting data from dynamodb to rockset. Along the way, they will query live data and combine it with static data in S3.
 
