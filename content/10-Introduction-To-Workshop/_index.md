@@ -20,4 +20,4 @@ It’s your choice on what you want to build. At the end of the hackathon, your 
 
 **NOTE**: Need more ideas on what real-time apps to build?  We can brainstorm more during the workshop or feel free to contribute to [Q&A section](https://community.rockset.com/c/open-q-and-a/29) on the [Rockset Community](https://community.rockset.com/)! 
 
-<img src="../../images/ferro-fly.png" style="margin:15px 0px;"/>
+<img src="../../images/ferro-fly2-small-1.png"/>

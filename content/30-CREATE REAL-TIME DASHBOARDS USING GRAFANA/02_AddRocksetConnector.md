@@ -120,5 +120,5 @@ weight: 302
  
  <b>Congrats! You’ve built a real-time reporting dashboard. This marks the end of the first part of the workshop. </b>
  
- <img src="../../images/ferro-victory.png" style="margin:15px 0px;"/>
+ <img src="../../images/ferro-victory-2.png"/>
 
