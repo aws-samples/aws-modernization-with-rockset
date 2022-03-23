@@ -10,24 +10,24 @@ Description: This template will launch the Modernization Workshop CI/CD Pipeline
 Parameters:
   ProjectName:
     Type: String
-    Description: Project Name
-    Default: xxxxxxx
+    Description: rockset
+    Default: rockset
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
-    Default: xxxxxxx.awsworkshop.io 
+    Default: rockset.awsworkshop.io
   CloudFrontDistroId:
     Type: String
     Description: CloudFront distribution ID 
-    Default: yyyyyyy
+    Default: ELOOI6TG73ISN
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-xxxxxxx
+    Default: aws-modernization-with-rockset
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-xxxxxxxx.git  
+    Default: https://github.com/aws-samples/aws-modernization-with-rockset.git  
   GitHubOwner:
     Type: String
     Description: GitHub owner name
