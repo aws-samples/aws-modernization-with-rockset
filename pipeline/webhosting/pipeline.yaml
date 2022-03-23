@@ -11,7 +11,7 @@ Parameters:
   ProjectName:
     Type: String
     Description: rockset
-    Default: xxxxxxx
+    Default: rockset
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
