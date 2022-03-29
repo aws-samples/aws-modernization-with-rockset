@@ -109,9 +109,9 @@ _While the_ _**CarPurchases**_ _collection is being populated with the DynamoDB 
 
 - Copy the Role ARN from AWS:
 
-<img src="../../images/copys3arn-14.png" style="margin:15px 0px; border:1px solid black"/>
+<img src="../../images/copys3arn-14-redo.png" style="margin:15px 0px; border:1px solid black"/>
 
 - Navigate back to Rockset and paste the ARN Role in **Role ARN** on Rockset and click **Save Integration**:
 
-<img src="../../images/Picture39.png" style="margin:15px 0px; border:1px solid black"/>
+<img src="../../images/save-s3integration-15-redo.png" style="margin:15px 0px; border:1px solid black"/>
 

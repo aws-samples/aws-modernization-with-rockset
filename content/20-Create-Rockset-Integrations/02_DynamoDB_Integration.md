@@ -129,11 +129,11 @@ Rockset has a managed DynamoDB connector that bulk loads data into a Rockset col
       
 - Grab the Role ARN on the AWS side and paste on the Rockset Integration section:
     
-   <img src="../../images/Picture21.png" style="margin:15px 0px; border:1px solid black"/>
+   <img src="../../images/get-arn-role-8.png" style="margin:15px 0px; border:1px solid black"/>
      
 - Navigate back to the Rockset DynamoDB Integration page and paste the ARN Role value under **Role ARN** and **Save Integration**:
     
-   <img src="../../images/Picture22.png" style="margin:15px 0px; border:1px solid black"/>
+   <img src="../../images/paste-arn-role-4.png" style="margin:15px 0px; border:1px solid black"/>
        
  <h4> 8. CREATE A COLLECTION FROM THE DYNAMODB INTEGRATION</h4>
        
