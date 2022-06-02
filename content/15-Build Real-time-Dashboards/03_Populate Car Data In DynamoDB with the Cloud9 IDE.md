@@ -20,7 +20,7 @@ weight: 153
 1. We’ll need to install the boto3 library. Run the following command: `pip install boto3`
  
 1. In Cloud9, use the copy command to copy the script from S3 into the Cloud9 file system. Run the following command: 
-   `aws s3 cp s3://rocksetawsworkshop/scriptReadS3.py` .
+   `aws s3 cp s3://rocksetawsworkshop/scriptReadS3.py .`
 
 1. Open up **scriptReadS3.py** by double-clicking on the file. Paste your Access and Secret key you got from CloudShell:
 
