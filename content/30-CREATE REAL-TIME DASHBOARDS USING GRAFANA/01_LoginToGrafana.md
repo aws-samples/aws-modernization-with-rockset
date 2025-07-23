@@ -41,9 +41,6 @@ weight: 301
     
  <img src="../../images/Picture56.png" style="margin:15px 0px; border:1px solid black"/>  
 
-- Install the Rockset plugin:
-
-        sudo grafana-cli --pluginsDir /opt/bitnami/grafana/data/plugins --pluginUrl REPLACED_REPO/rockset-backend-datasource-0.1.2.zip plugins install rockset-backend-datasource
   
 - Run the following script to restart the server: 
 
